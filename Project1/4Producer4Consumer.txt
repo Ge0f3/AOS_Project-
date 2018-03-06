@@ -1,0 +1,677 @@
+X--------------------------- Producer Consumer Problem ---------------------------X 
+
+
+Enter the Number of Producer & Consumer Choice 
+ 1). 1 Producer 1 Consumer
+ 2). 2 Producer 2 Consumer
+ 3). 3 Producer 3 Consumer
+ 4). 4 Producer 4 Consumer 
+
+Enter Your choice: 
+4
+producer 1 produced- 0 
+producer 1 produced- 1 
+producer 1 produced- 2 
+producer 1 produced- 3 
+producer 1 produced- 4 
+producer 1 produced- 5 
+producer 1 produced- 6 
+producer 1 produced- 7 
+Consumer 4 consumed- 0 
+Consumer 4 consumed- 1 
+Consumer 4 consumed- 2 
+Consumer 4 consumed- 3 
+Consumer 4 consumed- 4 
+Consumer 4 consumed- 5 
+Consumer 4 consumed- 6 
+Consumer 4 consumed- 7 
+Consumer 4 found the List Empty , Waiting for the producer to Produce 
+
+producer4 produced- 0 
+producer4 produced- 1 
+producer4 produced- 2 
+producer4 produced- 3 
+producer4 produced- 4 
+producer4 produced- 5 
+producer4 produced- 6 
+Consumer 3 consumed- 0 
+Consumer 3 consumed- 1 
+Consumer 3 consumed- 2 
+Consumer 3 consumed- 3 
+Consumer 3 consumed- 4 
+Consumer 3 consumed- 5 
+Consumer 3 consumed- 6 
+Consumer 3 found the List Empty , Waiting for the producer to Produce 
+
+producer 3 produced- 0 
+producer 3 produced- 1 
+producer 3 produced- 2 
+producer 3 produced- 3 
+producer 3 produced- 4 
+producer 3 produced- 5 
+producer 3 produced- 6 
+producer 3 produced- 7 
+Consumer 2 consumed- 0 
+Consumer 2 consumed- 1 
+Consumer 2 consumed- 2 
+Consumer 2 consumed- 3 
+Consumer 2 consumed- 4 
+Consumer 2 consumed- 5 
+Consumer 2 consumed- 6 
+Consumer 2 consumed- 7 
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 produced- 0 
+producer 2 produced- 1 
+producer 2 produced- 2 
+producer 2 produced- 3 
+producer 2 produced- 4 
+Consumer 1 consumed- 0 
+Consumer 1 consumed- 1 
+Consumer 1 consumed- 2 
+Consumer 1 consumed- 3 
+Consumer 1 consumed- 4 
+producer 2 produced- 5 
+producer 2 produced- 6 
+producer 2 produced- 7 
+producer 2 produced- 8 
+producer 2 produced- 9 
+producer 2 produced- 10 
+producer 2 produced- 11 
+producer 2 produced- 12 
+Consumer 2 consumed- 5 
+Consumer 2 consumed- 6 
+Consumer 2 consumed- 7 
+Consumer 2 consumed- 8 
+Consumer 2 consumed- 9 
+Consumer 2 consumed- 10 
+Consumer 2 consumed- 11 
+Consumer 2 consumed- 12 
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 3 found the List full and is waiting for the Consumer to Consumer 
+
+producer 3 produced- 8 
+producer 3 produced- 9 
+producer 3 produced- 10 
+producer 3 produced- 11 
+producer 3 produced- 12 
+producer 3 produced- 13 
+producer 3 produced- 14 
+producer 3 produced- 15 
+Consumer 3 consumed- 8 
+Consumer 3 consumed- 9 
+Consumer 3 consumed- 10 
+Consumer 3 consumed- 11 
+Consumer 3 consumed- 12 
+Consumer 3 consumed- 13 
+Consumer 3 consumed- 14 
+Consumer 3 consumed- 15 
+Consumer 3 found the List Empty , Waiting for the producer to Produce 
+
+producer4 produced- 7 
+producer4 produced- 8 
+producer4 produced- 9 
+producer4 produced- 10 
+producer4 produced- 11 
+producer4 produced- 12 
+producer4 produced- 13 
+producer4 produced- 14 
+Consumer 4 consumed- 7 
+Consumer 4 consumed- 8 
+Consumer 4 consumed- 9 
+Consumer 4 consumed- 10 
+Consumer 4 consumed- 11 
+Consumer 4 consumed- 12 
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+producer 1 produced- 8 
+producer 1 produced- 9 
+producer 1 produced- 10 
+producer 1 produced- 11 
+producer 1 produced- 12 
+producer 1 produced- 13 
+Consumer 4 consumed- 13 
+Consumer 4 consumed- 14 
+Consumer 4 consumed- 8 
+Consumer 4 consumed- 9 
+Consumer 4 consumed- 10 
+Consumer 4 consumed- 11 
+Consumer 4 consumed- 12 
+Consumer 4 consumed- 13 
+Consumer 4 found the List Empty , Waiting for the producer to Produce 
+
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+producer4 produced- 15 
+producer4 produced- 16 
+producer4 produced- 17 
+producer4 produced- 18 
+producer4 produced- 19 
+producer4 produced- 20 
+producer4 produced- 21 
+producer4 produced- 22 
+Consumer 3 consumed- 15 
+Consumer 3 consumed- 16 
+Consumer 3 consumed- 17 
+Consumer 3 consumed- 18 
+producer 3 found the List full and is waiting for the Consumer to Consumer 
+
+producer 3 produced- 16 
+producer 3 produced- 17 
+producer 3 produced- 18 
+producer 3 produced- 19 
+Consumer 2 consumed- 19 
+Consumer 2 consumed- 20 
+Consumer 2 consumed- 21 
+Consumer 2 consumed- 22 
+Consumer 2 consumed- 16 
+Consumer 2 consumed- 17 
+Consumer 2 consumed- 18 
+Consumer 2 consumed- 19 
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 found the List full and is waiting for the Consumer to Consumer 
+
+producer 2 produced- 13 
+producer 2 produced- 14 
+producer 2 produced- 15 
+Consumer 1 consumed- 13 
+Consumer 1 consumed- 14 
+producer 2 produced- 16 
+producer 2 produced- 17 
+producer 2 produced- 18 
+producer 2 produced- 19 
+producer 2 produced- 20 
+Consumer 2 consumed- 15 
+Consumer 2 consumed- 16 
+Consumer 2 consumed- 17 
+Consumer 2 consumed- 18 
+Consumer 2 consumed- 19 
+Consumer 2 consumed- 20 
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 3 found the List full and is waiting for the Consumer to Consumer 
+
+producer 3 produced- 20 
+producer 3 produced- 21 
+producer 3 produced- 22 
+producer 3 produced- 23 
+producer 3 produced- 24 
+producer 3 produced- 25 
+producer 3 produced- 26 
+producer 3 produced- 27 
+Consumer 3 consumed- 20 
+Consumer 3 consumed- 21 
+Consumer 3 consumed- 22 
+Consumer 3 consumed- 23 
+Consumer 3 consumed- 24 
+Consumer 3 consumed- 25 
+Consumer 3 consumed- 26 
+Consumer 3 consumed- 27 
+Consumer 3 found the List Empty , Waiting for the producer to Produce 
+
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+producer4 produced- 23 
+producer4 produced- 24 
+producer4 produced- 25 
+producer4 produced- 26 
+producer4 produced- 27 
+producer4 produced- 28 
+producer4 produced- 29 
+producer4 produced- 30 
+Consumer 4 consumed- 23 
+Consumer 4 consumed- 24 
+Consumer 4 consumed- 25 
+Consumer 4 consumed- 26 
+Consumer 4 consumed- 27 
+Consumer 4 consumed- 28 
+Consumer 4 consumed- 29 
+Consumer 4 consumed- 30 
+Consumer 4 found the List Empty , Waiting for the producer to Produce 
+
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+producer 1 produced- 14 
+producer 1 produced- 15 
+producer 1 produced- 16 
+producer 1 produced- 17 
+producer 1 produced- 18 
+producer 1 produced- 19 
+producer 1 produced- 20 
+producer 1 produced- 21 
+Consumer 4 consumed- 14 
+Consumer 4 consumed- 15 
+Consumer 4 consumed- 16 
+Consumer 4 consumed- 17 
+Consumer 4 consumed- 18 
+Consumer 4 consumed- 19 
+Consumer 4 consumed- 20 
+Consumer 4 consumed- 21 
+Consumer 4 found the List Empty , Waiting for the producer to Produce 
+
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+producer 1 produced- 22 
+producer 1 produced- 23 
+producer 1 produced- 24 
+producer 1 produced- 25 
+producer 1 produced- 26 
+producer 1 produced- 27 
+producer 1 produced- 28 
+producer 1 produced- 29 
+Consumer 4 consumed- 22 
+Consumer 4 consumed- 23 
+Consumer 4 consumed- 24 
+Consumer 4 consumed- 25 
+Consumer 4 consumed- 26 
+Consumer 4 consumed- 27 
+Consumer 4 consumed- 28 
+Consumer 4 consumed- 29 
+Consumer 4 found the List Empty , Waiting for the producer to Produce 
+
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+producer 1 produced- 30 
+producer 1 produced- 31 
+producer 1 produced- 32 
+producer 1 produced- 33 
+producer 1 produced- 34 
+producer 1 produced- 35 
+producer 1 produced- 36 
+producer 1 produced- 37 
+Consumer 4 consumed- 30 
+Consumer 4 consumed- 31 
+Consumer 4 consumed- 32 
+Consumer 4 consumed- 33 
+Consumer 4 consumed- 34 
+Consumer 4 consumed- 35 
+Consumer 4 consumed- 36 
+Consumer 4 consumed- 37 
+Consumer 4 found the List Empty , Waiting for the producer to Produce 
+
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+producer 1 produced- 38 
+Consumer 4 consumed- 38 
+Consumer 4 found the List Empty , Waiting for the producer to Produce 
+
+producer 1 produced- 39 
+producer 1 produced- 40 
+producer 1 produced- 41 
+producer 1 produced- 42 
+producer 1 produced- 43 
+producer 1 produced- 44 
+producer 1 produced- 45 
+producer 1 produced- 46 
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+Consumer 3 consumed- 39 
+Consumer 3 consumed- 40 
+Consumer 3 consumed- 41 
+Consumer 3 consumed- 42 
+Consumer 3 consumed- 43 
+Consumer 3 consumed- 44 
+Consumer 3 consumed- 45 
+Consumer 3 consumed- 46 
+Consumer 3 found the List Empty , Waiting for the producer to Produce 
+
+producer 3 found the List full and is waiting for the Consumer to Consumer 
+
+producer 3 produced- 28 
+producer 3 produced- 29 
+producer 3 produced- 30 
+producer 3 produced- 31 
+producer 3 produced- 32 
+producer 3 produced- 33 
+producer 3 produced- 34 
+producer 3 produced- 35 
+Consumer 2 consumed- 28 
+Consumer 2 consumed- 29 
+Consumer 2 consumed- 30 
+Consumer 2 consumed- 31 
+Consumer 2 consumed- 32 
+Consumer 2 consumed- 33 
+Consumer 2 consumed- 34 
+Consumer 2 consumed- 35 
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 produced- 21 
+producer 2 produced- 22 
+producer 2 produced- 23 
+producer 2 produced- 24 
+producer 2 produced- 25 
+producer 2 produced- 26 
+producer 2 produced- 27 
+producer 2 produced- 28 
+Consumer 1 consumed- 21 
+Consumer 1 consumed- 22 
+Consumer 1 consumed- 23 
+Consumer 1 consumed- 24 
+Consumer 1 consumed- 25 
+Consumer 1 consumed- 26 
+Consumer 1 consumed- 27 
+Consumer 1 consumed- 28 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 found the List full and is waiting for the Consumer to Consumer 
+
+producer 2 produced- 29 
+producer 2 produced- 30 
+producer 2 produced- 31 
+producer 2 produced- 32 
+producer 2 produced- 33 
+producer 2 produced- 34 
+producer 2 produced- 35 
+producer 2 produced- 36 
+Consumer 1 consumed- 29 
+Consumer 1 consumed- 30 
+Consumer 1 consumed- 31 
+Consumer 1 consumed- 32 
+Consumer 1 consumed- 33 
+Consumer 1 consumed- 34 
+Consumer 1 consumed- 35 
+Consumer 1 consumed- 36 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 found the List full and is waiting for the Consumer to Consumer 
+
+producer 2 produced- 37 
+producer 2 produced- 38 
+producer 2 produced- 39 
+producer 2 produced- 40 
+producer 2 produced- 41 
+producer 2 produced- 42 
+producer 2 produced- 43 
+producer 2 produced- 44 
+Consumer 1 consumed- 37 
+Consumer 1 consumed- 38 
+Consumer 1 consumed- 39 
+Consumer 1 consumed- 40 
+Consumer 1 consumed- 41 
+Consumer 1 consumed- 42 
+Consumer 1 consumed- 43 
+Consumer 1 consumed- 44 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 found the List full and is waiting for the Consumer to Consumer 
+
+producer 2 produced- 45 
+Consumer 1 consumed- 45 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 produced- 46 
+producer 2 produced- 47 
+producer 2 produced- 48 
+producer 2 produced- 49 
+producer 2 produced- 50 
+producer 2 produced- 51 
+producer 2 produced- 52 
+producer 2 produced- 53 
+Consumer 2 consumed- 46 
+Consumer 2 consumed- 47 
+Consumer 2 consumed- 48 
+Consumer 2 consumed- 49 
+Consumer 2 consumed- 50 
+Consumer 2 consumed- 51 
+Consumer 2 consumed- 52 
+Consumer 2 consumed- 53 
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 3 found the List full and is waiting for the Consumer to Consumer 
+
+producer 3 produced- 36 
+producer 3 produced- 37 
+producer 3 produced- 38 
+producer 3 produced- 39 
+producer 3 produced- 40 
+producer 3 produced- 41 
+producer 3 produced- 42 
+producer 3 produced- 43 
+Consumer 3 consumed- 36 
+Consumer 3 consumed- 37 
+Consumer 3 consumed- 38 
+Consumer 3 consumed- 39 
+Consumer 3 consumed- 40 
+Consumer 3 consumed- 41 
+Consumer 3 consumed- 42 
+Consumer 3 consumed- 43 
+Consumer 3 found the List Empty , Waiting for the producer to Produce 
+
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+producer4 produced- 31 
+producer4 produced- 32 
+producer4 produced- 33 
+producer4 produced- 34 
+producer4 produced- 35 
+producer4 produced- 36 
+producer4 produced- 37 
+producer4 produced- 38 
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+Consumer 4 consumed- 31 
+Consumer 4 consumed- 32 
+Consumer 4 consumed- 33 
+Consumer 4 consumed- 34 
+Consumer 4 consumed- 35 
+Consumer 4 consumed- 36 
+Consumer 4 consumed- 37 
+Consumer 4 consumed- 38 
+Consumer 4 found the List Empty , Waiting for the producer to Produce 
+
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+producer4 produced- 39 
+producer4 produced- 40 
+producer4 produced- 41 
+producer4 produced- 42 
+producer4 produced- 43 
+producer4 produced- 44 
+producer4 produced- 45 
+producer4 produced- 46 
+Consumer 4 consumed- 39 
+Consumer 4 consumed- 40 
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+producer4 produced- 47 
+producer4 produced- 48 
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+Consumer 3 consumed- 41 
+Consumer 3 consumed- 42 
+Consumer 3 consumed- 43 
+Consumer 3 consumed- 44 
+Consumer 3 consumed- 45 
+Consumer 3 consumed- 46 
+Consumer 3 consumed- 47 
+Consumer 3 consumed- 48 
+Consumer 3 found the List Empty , Waiting for the producer to Produce 
+
+producer 3 found the List full and is waiting for the Consumer to Consumer 
+
+producer 3 produced- 44 
+producer 3 produced- 45 
+producer 3 produced- 46 
+producer 3 produced- 47 
+producer 3 produced- 48 
+producer 3 produced- 49 
+producer 3 produced- 50 
+producer 3 produced- 51 
+Consumer 2 consumed- 44 
+Consumer 2 consumed- 45 
+Consumer 2 consumed- 46 
+Consumer 2 consumed- 47 
+Consumer 2 consumed- 48 
+Consumer 2 consumed- 49 
+Consumer 2 consumed- 50 
+Consumer 2 consumed- 51 
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 found the List full and is waiting for the Consumer to Consumer 
+
+producer 2 produced- 54 
+producer 2 produced- 55 
+producer 2 produced- 56 
+producer 2 produced- 57 
+producer 2 produced- 58 
+producer 2 produced- 59 
+producer 2 produced- 60 
+producer 2 produced- 61 
+Consumer 1 consumed- 54 
+Consumer 1 consumed- 55 
+Consumer 1 consumed- 56 
+Consumer 1 consumed- 57 
+Consumer 1 consumed- 58 
+Consumer 1 consumed- 59 
+Consumer 1 consumed- 60 
+Consumer 1 consumed- 61 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+producer 2 found the List full and is waiting for the Consumer to Consumer 
+
+producer 2 produced- 62 
+producer 2 produced- 63 
+producer 2 produced- 64 
+Consumer 1 consumed- 62 
+Consumer 1 consumed- 63 
+Consumer 1 consumed- 64 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 3 found the List full and is waiting for the Consumer to Consumer 
+
+producer 3 produced- 52 
+producer 3 produced- 53 
+producer 3 produced- 54 
+producer 3 produced- 55 
+producer 3 produced- 56 
+producer 3 produced- 57 
+Consumer 3 consumed- 52 
+Consumer 3 consumed- 53 
+Consumer 3 consumed- 54 
+Consumer 3 consumed- 55 
+Consumer 3 consumed- 56 
+Consumer 3 consumed- 57 
+Consumer 3 found the List Empty , Waiting for the producer to Produce 
+
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+producer 1 produced- 47 
+producer 1 produced- 48 
+producer 1 produced- 49 
+producer 1 produced- 50 
+producer 1 produced- 51 
+producer 1 produced- 52 
+producer 1 produced- 53 
+producer 1 produced- 54 
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+Consumer 3 consumed- 47 
+Consumer 3 consumed- 48 
+Consumer 3 consumed- 49 
+Consumer 3 consumed- 50 
+Consumer 3 consumed- 51 
+Consumer 3 consumed- 52 
+Consumer 3 consumed- 53 
+Consumer 3 consumed- 54 
+producer 3 produced- 58 
+producer 3 produced- 59 
+Consumer 2 consumed- 58 
+Consumer 2 consumed- 59 
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+producer 3 produced- 60 
+producer 3 produced- 61 
+producer 3 produced- 62 
+producer 3 produced- 63 
+producer 3 produced- 64 
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+producer4 produced- 49 
+producer4 produced- 50 
+producer4 produced- 51 
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+Consumer 1 consumed- 60 
+Consumer 1 consumed- 61 
+Consumer 1 consumed- 62 
+Consumer 1 consumed- 63 
+Consumer 1 consumed- 64 
+Consumer 1 consumed- 49 
+Consumer 1 consumed- 50 
+Consumer 1 consumed- 51 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+producer 1 produced- 55 
+producer 1 produced- 56 
+producer 1 produced- 57 
+producer 1 produced- 58 
+producer 1 produced- 59 
+producer 1 produced- 60 
+producer 1 produced- 61 
+producer 1 produced- 62 
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+Consumer 2 consumed- 55 
+Consumer 2 consumed- 56 
+Consumer 2 consumed- 57 
+Consumer 2 consumed- 58 
+Consumer 2 consumed- 59 
+Consumer 2 consumed- 60 
+Consumer 2 consumed- 61 
+Consumer 1 consumed- 62 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+Consumer 2 found the List Empty , Waiting for the producer to Produce 
+
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+producer4 produced- 52 
+producer4 produced- 53 
+producer4 produced- 54 
+producer4 produced- 55 
+producer4 produced- 56 
+producer4 produced- 57 
+producer4 produced- 58 
+producer4 produced- 59 
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+Consumer 2 consumed- 52 
+Consumer 2 consumed- 53 
+Consumer 1 consumed- 54 
+Consumer 1 consumed- 55 
+Consumer 1 consumed- 56 
+Consumer 1 consumed- 57 
+Consumer 1 consumed- 58 
+Consumer 1 consumed- 59 
+Consumer 1 found the List Empty , Waiting for the producer to Produce 
+
+producer 1 found the List full and is waiting for the Consumer to Consumer 
+
+producer 1 produced- 63 
+producer 1 produced- 64 
+producer4 found the List full and is waiting for the Consumer to Consumer 
+
+producer4 produced- 60 
+producer4 produced- 61 
+producer4 produced- 62 
+producer4 produced- 63 
+producer4 produced- 64 
+Consumer 1 consumed- 63 
+Consumer 1 consumed- 64 
+Consumer 1 consumed- 60 
+Consumer 1 consumed- 61 
+Consumer 1 consumed- 62 
+Consumer 1 consumed- 63 
+Consumer 1 consumed- 64 
+
+Process finished with exit code 0
